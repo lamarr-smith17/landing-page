@@ -91,6 +91,10 @@ li a {
     display: flex;
     background-color: #F9FAF8;
     justify-content: center;
+    padding: 2em 0;
+}
+.info-header {
+    padding-bottom: 3em;
 }
 
 .main-content-two {
@@ -102,9 +106,19 @@ li a {
     width: 200px;
     border: 5px solid #3882F6;
     border-radius: 1em;
+    overflow-wrap: normal;
 }
 .border-imgs > p {
     font-size: 18px;
     font-weight: bold;
     color: #9C9C9C;
 }
+
+.panda-class {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    max-width: 200px;
+}
+
+    
