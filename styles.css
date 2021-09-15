@@ -48,14 +48,16 @@ li a {
 /* Container One */
 .container-one {
     display: flex;
-    flex-direction: column;
     padding-top: 5em;
+    align-content: center;
+    justify-content: center;
 }
 .main-content {
     display: flex;
     flex-direction: column;
     padding-left: 5em;
     gap: 1em;
+    justify-content: center;
 }
 #main-text {
     font-size: 48px;
@@ -70,12 +72,23 @@ li a {
 }
 
 .bsign-one {
-    width: 100px;
     align-content: center;
-    padding: 6px;
+    padding: 15px;
     color:#E5E7EB ;
     background-color:#3882F6 ;
     border: none;
     border-radius: 5px;
     font-size: 18px;
+}
+
+.coffee-img {
+    display: flex;
+    margin-left: 5em;
+    
+}
+
+/* Container Two */
+.container-two {
+    display: flex;
+    background-color: #F9FAF8;
 }
