@@ -44,3 +44,38 @@ li a {
     margin-left: auto;
     padding-right: 5em;
 }
+
+/* Container One */
+.container-one {
+    display: flex;
+    flex-direction: column;
+    padding-top: 5em;
+}
+.main-content {
+    display: flex;
+    flex-direction: column;
+    padding-left: 5em;
+    gap: 1em;
+}
+#main-text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+#subtext {
+    inline-size: 300px;
+    overflow-wrap: normal;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.bsign-one {
+    width: 100px;
+    align-content: center;
+    padding: 6px;
+    color:#E5E7EB ;
+    background-color:#3882F6 ;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
