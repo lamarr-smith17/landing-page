@@ -90,7 +90,7 @@ li a {
 /* Container Two */
 .container-two {
     background-color: #F9FAF8;
-    padding: 2em 0;
+    padding: 3em 0;
 }
 .info-header {
     display: flex;
@@ -103,8 +103,18 @@ li a {
 .panda-class {
     display: flex;
     align-items: center;
+    justify-content: center;
+    gap: 52px;
 }
 
+.subtext {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+    color: #1F2937;
+    font-weight: bolder;
+    text-align: center;
+}
 
 .border-imgs {
     height: 100px;
