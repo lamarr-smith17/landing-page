@@ -5,7 +5,6 @@
 }
 
 body {
-    height: 100vh;
     display: flex;
     flex-direction: column;
     background-color: #1F2937;
@@ -91,4 +90,21 @@ li a {
 .container-two {
     display: flex;
     background-color: #F9FAF8;
+    justify-content: center;
+}
+
+.main-content-two {
+   display: flex;
+   gap: 10em;
+}
+.border-imgs {
+    height: 100px;
+    width: 200px;
+    border: 5px solid #3882F6;
+    border-radius: 1em;
+}
+.border-imgs > p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #9C9C9C;
 }

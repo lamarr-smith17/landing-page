@@ -1,1 +1,7 @@
 The Odin Project's landing page project. It will be made with HTML and CSS, mainly flexbox if possible. It will have my own touch to it to differentiate it from others! 
+Coffee shop image credit: Photo by <a href="https://unsplash.com/@nputra?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nafinia Putra</a> on <a href="https://unsplash.com/s/photos/coffee-shop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Panda Image: Photo by <a href="https://unsplash.com/@millerthachiller?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pascal Müller</a> on <a href="https://unsplash.com/s/photos/panda?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Demon Slayer Image: https://jw-webmagazine.com/best-anime/
+Airplane Window Shot: Photo by <a href="https://unsplash.com/@evadarron?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Eva Darron</a> on <a href="https://unsplash.com/s/photos/travel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Book Image: Photo by <a href="https://unsplash.com/@christinhumephoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christin Hume</a> on <a href="https://unsplash.com/s/photos/reading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
