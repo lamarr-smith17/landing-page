@@ -200,3 +200,20 @@ li a {
     font-weight: bolder;
     width: 150px;
 }
+
+/* Footer Styles */
+footer{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    padding: 3em 0 3em 0;
+}
+.cfive-inside {
+    display: flex;
+    gap: 52px;
+}
+.footer-text {
+    color: #F9FAF8;
+    font-size: 18px;
+}
