@@ -204,6 +204,7 @@ li a {
 /* Footer Styles */
 footer{
     display: flex;
+    flex-shrink: 0;
     align-content: center;
     justify-content: center;
     text-align: center;
